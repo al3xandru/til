@@ -20,6 +20,7 @@ _1510 TILs and counting..._
 * [Amplify](#amplify)
 * [Ansible](#ansible)
 * [Astro](#astro)
+* [Bash](#bash)
 * [Brew](#brew)
 * [Chrome](#chrome)
 * [Clojure](#clojure)
@@ -28,6 +29,7 @@ _1510 TILs and counting..._
 * [Devops](#devops)
 * [Docker](#docker)
 * [Drizzle](#drizzle)
+* [Emacs](#emacs)
 * [Elixir](#elixir)
 * [Gatsby](#gatsby)
 * [Git](#git)
@@ -104,6 +106,10 @@ _1510 TILs and counting..._
 
 - [Generate Types For A Content Collection](astro/generate-types-for-a-content-collection.md)
 - [Markdown Files Are Of Type MarkdownInstance](astro/markdown-files-are-of-type-markdown-instance.md)
+
+### Bash
+
+- [Using arrays in Bash](bash/using-arrays-in-bash.md)
 
 ### Brew
 
@@ -216,6 +222,11 @@ _1510 TILs and counting..._
 - [Drizzle Tracks Migrations In A Log Table](drizzle/drizzle-tracks-migrations-in-a-log-table.md)
 - [Get Fields For Inserted Row](drizzle/get-fields-for-inserted-row.md)
 
+### Emacs
+
+- [Emacs Key Bindings (shortcuts) for Text Editing and Manipulation](emacs/emacs-keybindings-shortcuts-text-editing-manipulation.md)
+- [Emacs Windows](emacs/emacs-windows-keybindings.md)
+
 ### Elixir
 
 - [All Values For A Key In A Keyword List](elixir/all-values-for-a-key-in-a-keyword-list.md)
@@ -286,6 +297,7 @@ _1510 TILs and counting..._
 - [Change The Start Point Of A Branch](git/change-the-start-point-of-a-branch.md)
 - [Check How A File Is Being Ignored](git/check-how-a-file-is-being-ignored.md)
 - [Checking Commit Ancestry](git/checking-commit-ancestry.md)
+- [Checking Out a Tag](git/checking-out-tag.md)
 - [Checkout Old Version Of A File](git/checkout-old-version-of-a-file.md)
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Cherry Pick A Range Of Commits](git/cherry-pick-a-range-of-commits.md)
@@ -663,6 +675,7 @@ _1510 TILs and counting..._
 - [Create User Command To Open Init Config](neovim/create-user-command-to-open-init-config.md)
 - [Run A Lua Statement From The Command Prompt](neovim/run-a-lua-statement-from-the-command-prompt.md)
 - [Set Up Vim-Plug With Neovim](neovim/set-up-vim-plug-with-neovim.md)
+- [Awesome Neovim Plugins](neovim/awesome-neovim-plugins.md)
 
 ### Netlify
 
