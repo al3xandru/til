@@ -382,6 +382,7 @@ _1510 TILs and counting..._
 - [Stash Everything](git/stash-everything.md)
 - [Stashing Only Unstaged Changes](git/stashing-only-unstaged-changes.md)
 - [Stashing Untracked Files](git/stashing-untracked-files.md)
+- [Sync GitHub Form](git/sync-github-fork.md)
 - [Switch To A Recent Branch With FZF](git/switch-to-a-recent-branch-with-fzf.md)
 - [Transition A Branch From One Base To Another](git/transition-a-branch-from-one-base-to-another.md)
 - [Turn Off The Output Pager For One Command](git/turn-off-the-output-pager-for-one-command.md)
