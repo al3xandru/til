@@ -225,6 +225,7 @@ _1510 TILs and counting..._
 ### Emacs
 
 - [Emacs Key Bindings (shortcuts) for Text Editing and Manipulation](emacs/emacs-keybindings-shortcuts-text-editing-manipulation.md)
+- [Emacs Rectangles (vertical)](emacs/emacs-rectangles.md)
 - [Emacs Windows](emacs/emacs-windows-keybindings.md)
 
 ### Elixir
