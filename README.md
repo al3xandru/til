@@ -109,6 +109,7 @@ _1510 TILs and counting..._
 
 ### Bash
 
+- [Split (tee) output to console and pbcopy](bash/split-tee-console-pbcopy.md)
 - [Using arrays in Bash](bash/using-arrays-in-bash.md)
 
 ### Brew
@@ -338,6 +339,7 @@ _1510 TILs and counting..._
 - [Interactively Unstage Changes](git/interactively-unstage-changes.md)
 - [Keep File Locally With `git rm`](git/keep-file-locally-with-git-rm.md)
 - [Last Commit A File Appeared In](git/last-commit-a-file-appeared-in.md)
+- [Lazygit](git/lazygit.md)
 - [List All Files Changed Between Two Branches](git/list-all-files-changed-between-two-branches.md)
 - [List Branches That Contain A Commit](git/list-branches-that-contain-a-commit.md)
 - [List Commits On A Branch](git/list-commits-on-a-branch.md)
@@ -474,6 +476,7 @@ _1510 TILs and counting..._
 
 - [Ensure Resources Always Get Closed](java/ensure-resources-always-get-closed.md)
 - [Install Java On Mac With Brew](java/install-java-on-mac-with-brew.md)
+- [Java Command Line Arguments for Debugging](java/java-debugging-arguments.md)
 - [Run A Hello World Program In Eclipse](java/run-a-hello-world-program-in-eclipse.md)
 
 ### JavaScript
@@ -1378,6 +1381,7 @@ _1510 TILs and counting..._
 - [Kill The Current Session](tmux/kill-the-current-session.md)
 - [List All Key Bindings](tmux/list-all-key-bindings.md)
 - [List Sessions](tmux/list-sessions.md)
+- [Move Window to Other Session](tmux/move-window-to-session.md)
 - [Open New Splits To The Current Directory](tmux/open-new-splits-to-the-current-directory.md)
 - [Open New Window With A Specific Directory](tmux/open-new-window-with-a-specific-directory.md)
 - [Organizing Windows](tmux/organizing-windows.md)
