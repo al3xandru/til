@@ -44,6 +44,7 @@ _1510 TILs and counting..._
 * [Java](#java)
 * [JavaScript](#javascript)
 * [jq](#jq)
+* [Kaleidoscope/ksdiff](#kaleidoscope)
 * [Kitty](#kitty)
 * [Linux](#linux)
 * [LLM](#llm)
@@ -225,9 +226,11 @@ _1510 TILs and counting..._
 
 ### Emacs
 
-- [Emacs Key Bindings (shortcuts) for Text Editing and Manipulation](emacs/emacs-keybindings-shortcuts-text-editing-manipulation.md)
-- [Emacs Rectangles (vertical)](emacs/emacs-rectangles.md)
-- [Emacs Windows](emacs/emacs-windows-keybindings.md)
+- [Bookmarks](emacs/bookmarks-create-jump-list-emacs.md)
+- [Jump to Matching Parentheses, Bracket, Brace](emacs/emacs-jump-matching-parentheses-bracket-brace.md)
+- [Key Bindings (shortcuts) for Text Editing and Manipulation](emacs/emacs-keybindings-shortcuts-text-editing-manipulation.md)
+- [Rectangles (vertical)](emacs/emacs-rectangles.md)
+- [Windows](emacs/emacs-windows-keybindings.md)
 
 ### Elixir
 
@@ -601,6 +604,10 @@ _1510 TILs and counting..._
 - [Turn A List From A Command Into JSON](jq/turn-a-list-from-a-command-into-json.md)
 - [Zip Two JSON Files Together Based On Shared ID](jq/zip-two-json-files-together-based-on-shared-id.md)
 
+### Kaleidoscope & ksdiff
+
+- [Use Kaleidoscope ksdiff for merging](kaleidoscope/using-kaleidoscope-ksdiff-for-merge.md)
+
 ### Kitty
 
 - [Set The Title Of A Window](kitty/set-the-title-of-a-window.md)
@@ -633,6 +640,7 @@ _1510 TILs and counting..._
 - [Display A Message With Alfred](mac/display-a-message-with-alfred.md)
 - [Find The Process Using A Specific Port](mac/find-the-process-using-a-specific-port.md)
 - [Gesture For Viewing All Windows Of Current App](mac/gesture-for-viewing-all-windows-of-current-app.md)
+- [Globe/Fn key shortcuts](mac/globe-fn-shortcuts.md)
 - [Insert A Non-Breaking Space Character](mac/insert-a-non-breaking-space-character.md)
 - [Keyboard Shortcuts For Interesting With Text Areas](mac/keyboard-shortcuts-for-interacting-with-text-areas.md)
 - [List All The Say Voices](mac/list-all-the-say-voices.md)
@@ -1470,6 +1478,7 @@ _1510 TILs and counting..._
 - [Find Any Dotfiles That Modify Path Env Var](unix/find-any-dotfiles-that-modify-path-env-var.md)
 - [Find A File Installed By Brew](unix/find-a-file-installed-by-brew.md)
 - [Find Duplicate Lines In A File](unix/find-duplicate-lines-in-a-file.md)
+- [Find File Access, Modification, Birth Time, inode Last Change](unix/find-file-access-modification-birth-inode-last-change-time.md)
 - [Find Files With fd](unix/find-files-with-fd.md)
 - [Find Newer Files](unix/find-newer-files.md)
 - [Find Occurrences Of Multiple Values With Ripgrep](unix/find-occurrences-of-multiple-values-with-ripgrep.md)
@@ -1627,6 +1636,7 @@ _1510 TILs and counting..._
 - [Find The Nth Character Position In A File](vim/find-the-nth-character-position-in-a-file.md)
 - [Fix The Spelling Of A Word](vim/fix-the-spelling-of-a-word.md)
 - [Fold A Visual Selection And Expand It Back](vim/fold-a-visual-selection-and-expand-it-back.md)
+- [Folding Cheatsheet](vim/vim-folding-cheatsheet.md)
 - [For When That Escape Key Is Hard To Reach](vim/for-when-that-escape-key-is-hard-to-reach.md)
 - [Format Long Lines To Text Width](vim/format-long-lines-to-text-width.md)
 - [From Ruby Variables To JavaScript Variables](vim/from-ruby-variables-to-javascript-variables.md)
