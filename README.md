@@ -1740,6 +1740,7 @@ _1510 TILs and counting..._
 - [View The Current File In GitHub](vim/view-the-current-file-in-github.md)
 - [Viewing Man Pages with man.vim](vim/viewing-man-pages-with-man-vim.md)
 - [Vim Without The Extras](vim/vim-without-the-extras.md)
+- [Vim vinegar and netrw](vim/vim-vinegar-netrw.md)
 - [What Is On The Runtime Path?](vim/what-is-on-the-runtime-path.md)
 - [Whole Line Auto-Completion](vim/whole-line-auto-completion.md)
 - [Wrap With Some Room](vim/wrap-with-some-room.md)
