@@ -55,6 +55,7 @@ _1510 TILs and counting..._
 * [Netlify](#netlify)
 * [NextAuth.js](#next-auth)
 * [Next.js](#nextjs)
+* [Org mode](#orgmode)
 * [Phoenix](#phoenix)
 * [Planetscale](#planetscale)
 * [pnpm](#pnpm)
@@ -711,6 +712,10 @@ _1510 TILs and counting..._
 - [Redirect An Unauthorized User](nextjs/redirect-an-unauthorized-user.md)
 - [Remove A Query Param From The URL](nextjs/remove-a-query-param-from-the-url.md)
 - [Ship Public Assets With A Next.js App](nextjs/ship-public-assets-with-a-nextjs-app.md)
+
+### Org Mode
+
+- [Formatting markup in Org Mode: Bold, Italic, Underlined, Verbatim, Code, Strikethrough](org/org-mode-markup-formatting-bold-italic-underlined-code.md)
 
 ### Phoenix
 
